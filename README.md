@@ -34,10 +34,9 @@ go run main.go
 ## 📊 Sample Pipeline Telemetry
 When executed, the system initializes the worker matrix and streams parallel transactions across the channel network:
 
-Plaintext
 🚀 Initializing High-Throughput Manufacturing Ingestion Pipeline...
-✓ [MULE-QUEUE] Job JOB-TXN-0001 successfully processed by Worker 1 in 84ms
-✓ [MULE-QUEUE] Job JOB-TXN-0003 successfully processed by Worker 3 in 92ms
-✓ [MULE-QUEUE] Job JOB-TXN-0002 successfully processed by Worker 2 in 115ms
+✓ [MULE-QUEUE] Job JOB-TXN-0002 successfully processed by Worker 3 in 65.6537ms
+✓ [MULE-QUEUE] Job JOB-TXN-0003 successfully processed by Worker 2 in 93.2857ms
+✓ [MULE-QUEUE] Job JOB-TXN-0001 successfully processed by Worker 1 in 113.8689ms
 ...
 🏁 Pipeline Finished. Successfully dispatched 20/20 assets to printer queues.
